@@ -1,7 +1,3 @@
-Here is a suggested `README.md` file for your GitHub repository:
-
----
-
 # Language Translator with Text-to-Speech
 
 A **Python-based GUI application** for language translation and text-to-speech functionality, developed using `Tkinter`. This app allows users to input text, translate it into a chosen language, and hear the translated text using a text-to-speech feature.
